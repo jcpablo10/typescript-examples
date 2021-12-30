@@ -27,5 +27,8 @@ console.log('other undefimed', otherUndefined);
 
 let albumNamne: string;
 // albumNamne = null;
-// albumNamne = udefined;
+// albumNamne = undefined;
+
+let variable:any
+variable = undefined;
 
